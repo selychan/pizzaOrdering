@@ -1,0 +1,13 @@
+*Lutfen Bir Pizza Tabani Seciniz:
+1: Klasik
+2: Margarita
+3: TurkPizza
+4: Pepperoni Pizza
+* ve sececeginiz sos:
+11: Eksta Kasar
+12:Yesil Zeytin
+13: Keci Peyniri
+14: Mozarella Peyniri
+15: Sogan
+16: Misir
+Tesekkur ederiz!
